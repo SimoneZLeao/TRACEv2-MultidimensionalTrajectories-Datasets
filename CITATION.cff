@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+type: dataset
+message: "Please cite this dataset using the following information."
+title: "TRACE-V2: Multidimensional Artistic Career Trajectories — Datasets"
+authors:
+  - family-names: "Leao"
+    given-names: "Simone Zarpelon"
+date-released: "2026-11-04"
+version: "1.0.0"
+abstract: >-
+  This repository contains the original simulation output and processed
+  artist-level analytical dataset from Simulation 1 of TRACE-V2
+  (Trajectory Reconstruction through Agent-based Cultural Emergence).
+  The materials support analysis of artistic career trajectories across
+  four separate dimensions: economic capital, symbolic capital,
+  secondary employment, and exits. TRACE-V2 is an exploratory
+  agent-based model; the datasets are simulated rather than observations
+  of real artists.
